@@ -21,7 +21,6 @@ canvas.grid(column=0, row=1, columnspan=3)
 
 #timer timings
 #def start_timer():
-   # reps = 
 
 #timer count down mechanism
 def count_down(count):
